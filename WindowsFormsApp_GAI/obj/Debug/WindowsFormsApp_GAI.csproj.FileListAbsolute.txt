@@ -1,0 +1,15 @@
+C:\Users\Zver\source\repos\WindowsFormsApp_GAI\WindowsFormsApp_GAI\bin\Debug\WindowsFormsApp_GAI.exe.config
+C:\Users\Zver\source\repos\WindowsFormsApp_GAI\WindowsFormsApp_GAI\bin\Debug\WindowsFormsApp_GAI.exe
+C:\Users\Zver\source\repos\WindowsFormsApp_GAI\WindowsFormsApp_GAI\bin\Debug\WindowsFormsApp_GAI.pdb
+C:\Users\Zver\source\repos\WindowsFormsApp_GAI\WindowsFormsApp_GAI\obj\Debug\WindowsFormsApp_GAI.csproj.AssemblyReference.cache
+C:\Users\Zver\source\repos\WindowsFormsApp_GAI\WindowsFormsApp_GAI\obj\Debug\WindowsFormsApp_GAI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zver\source\repos\WindowsFormsApp_GAI\WindowsFormsApp_GAI\obj\Debug\WindowsFormsApp_GAI.Form1.resources
+C:\Users\Zver\source\repos\WindowsFormsApp_GAI\WindowsFormsApp_GAI\obj\Debug\WindowsFormsApp_GAI.Students.resources
+C:\Users\Zver\source\repos\WindowsFormsApp_GAI\WindowsFormsApp_GAI\obj\Debug\WindowsFormsApp_GAI.Properties.Resources.resources
+C:\Users\Zver\source\repos\WindowsFormsApp_GAI\WindowsFormsApp_GAI\obj\Debug\WindowsFormsApp_GAI.csproj.GenerateResource.cache
+C:\Users\Zver\source\repos\WindowsFormsApp_GAI\WindowsFormsApp_GAI\obj\Debug\WindowsFormsApp_GAI.csproj.CoreCompileInputs.cache
+C:\Users\Zver\source\repos\WindowsFormsApp_GAI\WindowsFormsApp_GAI\obj\Debug\WindowsFormsApp_GAI.exe
+C:\Users\Zver\source\repos\WindowsFormsApp_GAI\WindowsFormsApp_GAI\obj\Debug\WindowsFormsApp_GAI.pdb
+C:\Users\Zver\source\repos\WindowsFormsApp_GAI\WindowsFormsApp_GAI\obj\Debug\WindowsFormsApp_GAI.Subjects.resources
+C:\Users\Zver\source\repos\WindowsFormsApp_GAI\WindowsFormsApp_GAI\obj\Debug\WindowsFormsApp_GAI.Uspev.resources
+C:\Users\Zver\source\repos\WindowsFormsApp_GAI\WindowsFormsApp_GAI\obj\Debug\WindowsFormsApp_GAI.StudentsTable.resources
